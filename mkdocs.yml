@@ -1,0 +1,8 @@
+site_name: Rob Test
+site_description: A guide on using the Rob Test Backstage App
+
+nav:
+  - Intro: index.md
+
+plugins:
+  - techdocs-core
