@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: python-one
-  title: Test Python App
+  name: latin-translator-python-app
+  title: Test Python App - Latin Translator
   description: Test python application for backstage catalog
   annotations:
     backstage.io/techdocs-ref: dir:.
