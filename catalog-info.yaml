@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: python-one
+  title: Test Python App
+  description: Test python application for backstage catalog
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - typescript
+    - backstage
+  links:
+    - url: https://www.linux.org/
+      title: Learn More About Linux!
+      icon: dashboard
+      type: Learning Resources
+spec:
+  type: service
+  owner: guests
+  lifecycle: experimental
